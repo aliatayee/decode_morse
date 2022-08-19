@@ -4,7 +4,7 @@ This is a ruby method that decodes a morse code.
 
 ## Getting Started
 
-This repository include file with a method to decode morse code.
+This repository includes a file with a method to decode morse code.
 
 - clone repo ```git clone https://github.com/aliatayee/decode_morse.git```
 - run ```bundle install```
