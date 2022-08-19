@@ -1,13 +1,16 @@
 # Morse Code Decoder
 
-This is a ruby method that decodes a morse code
+This is a ruby method that decodes a morse code.
 
 ## Getting Started
 
 This repository include file with a method to decode morse code.
 
-- Use [decode_morse.rb](./decode_morse.rb) to decode mo.
-
+- clone repo ```git clone https://github.com/aliatayee/decode_morse.git```
+- run ```bundle install```
+- run ``` rubocop``` to track linters .For more information about ruby linter configuration check [here](https://github.com/microverseinc/linters-config/tree/master/ruby)
+- Use [decode_morse.rb](./decode_morse.rb) to decode morse using IRB or code editor.
+ 
 
 ## Authors
 
